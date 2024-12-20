@@ -1,0 +1,3 @@
+- Hull Count: 생성될 Convex Hull 조각의 최대 개수입니다. (예: 충돌 감지를 위해 여러 조각으로 나뉘는 경우, 그 최대 개수)
+- Max Hull Verts: 각 생성된 Convex Hull이 가질 수 있는 최대 꼭짓점(Vertex) 개수입니다. (복잡도를 제어하기 위한 제한)
+- Hull Precision: 충돌을 생성할 때 사용할 최대 Voxel 수입니다. (충돌 감지의 세밀도를 결정)
